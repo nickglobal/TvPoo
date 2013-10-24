@@ -1,4 +1,4 @@
 TvPoo
 =====
 
-android gtalk chat
+make screenshot from android devices
